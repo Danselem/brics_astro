@@ -7,6 +7,8 @@ statsmodels
 astropy
 astroquery
 lightkurve
+oktopus
+autograd
 ipython
 jupyterlab
 emcee
